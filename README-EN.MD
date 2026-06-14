@@ -72,7 +72,6 @@ These badges represent special statuses and participation on the GitHub platform
 
 ---
 
-## ❌ No Longer Earnable Badges (Historical Badges)
 
 These badges were awarded for specific past events and new ones cannot be earned currently:
 
