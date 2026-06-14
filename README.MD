@@ -6,7 +6,7 @@ GitHub başarımları, açık kaynak projelere yaptığınız katkıları ve pla
 
 ---
 
-## 🏅 Başarım Rozetleri (Achievements) ve Nasıl Alınırlar?
+## 🏅 Başarım Rozetleri ve Nasıl Alınırlar?
 
 Bu rozetleri, GitHub üzerindeki günlük aktivitelerinizle (Pull Request açmak, cevap yazmak vb.) kazanabilirsiniz.
 
